@@ -1,4 +1,4 @@
-# Push Swap (121/100)
+# Push Swap
 
 Push Swap is an algorithmic project that involves sorting a stack of integers using a limited set of operations. The goal is to sort the stack using the minimum number of moves possible.
 
